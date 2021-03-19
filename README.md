@@ -1,4 +1,4 @@
-# Used-Car-Price-Predict
+# Used-Cars-Price-Prediction
 Data Cleaning,
 Data Visualization,
 Data Preporecessing, 
